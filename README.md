@@ -1,6 +1,6 @@
 # 📚 My Github Profile
 
-👋 Hi, I'm @apiwatdev. Welcome to my Github profile! I'm a full-stack developer with a passion for building robust and efficient applications. Here are a few more things about me:
+👋 สวัสดีครับ(Hi), I'm @apiwatdev. Welcome to my Github profile! I'm a full-stack developer from Thailand with a passion for building robust and efficient applications. Here are a few more things about me:
 
 - 👀 I'm interested in all aspects of full-stack development, from designing user interfaces to implementing server-side logic and managing databases. I enjoy working on projects that challenge me and allow me to expand my skills.
 - 🌱 Currently, I'm focused on learning and expanding my knowledge in various areas, including security, Angular, Node.js, Java Spring Boot, Terraform, and AWS.
@@ -16,3 +16,5 @@
 📫 You can reach me through email at [apiwatdev@contact.com](mailto:apiwatdev@contact.com)
 
 Thank you for visiting my Github profile! Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or would like to discuss anything related to software development. Happy coding!
+
+ขอบคุณที่แวะเข้ามาในโปรไฟล์ Github ของผม! ผมยินดีมากที่ได้รับเกียรติในการต้อนรับนะครับ หากมีคำถามหรือต้องการพูดคุยเกี่ยวกับการพัฒนาซอฟต์แวร์ อย่าลังเลที่จะติดต่อผมนะครับ มาเริ่มการเขียนโค้ดไปด้วยกันนน!
