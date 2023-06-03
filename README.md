@@ -1,4 +1,4 @@
-# 📚 My Github Profile ![Uploading Waving Hand Medium-Light Skin Tone.png…]()
+# 📚 My Github Profile 
 
 👋 สวัสดีครับ(Hi), I'm @apiwatdev. Welcome to my Github profile! I'm a full-stack developer from Thailand with a passion for building robust and efficient applications. Here are a few more things about me:
 
